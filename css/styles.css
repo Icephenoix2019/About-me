@@ -3,4 +3,6 @@ body {
    background-color: #FFFFFF;
    background-attachment: scroll;
    background-size: auto;
+   background-repeat: no-repeat;
+
 }
