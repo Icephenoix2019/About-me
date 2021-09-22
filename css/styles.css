@@ -1,7 +1,7 @@
 body {
    background: url("https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png") no-repeat;
-   width: 400px;
-   height: 360px;        
+   width: 360px;
+   height: 260px;        
    background-size: cover;
    margin: 20px;
 }
